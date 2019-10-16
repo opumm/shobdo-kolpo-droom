@@ -1,7 +1,7 @@
 # Proposal
 
 **Shobdo Kolpo Droom**
-> Bangla handwriting recognition using rcnn based PHOCKNet algorithm.
+> Bangla handwriting recognition using rcnn based PHOCNet algorithm.
 
 
 
